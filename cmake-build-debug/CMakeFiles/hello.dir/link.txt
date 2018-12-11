@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-3/root/usr/bin/c++   -g   CMakeFiles/hello.dir/src/server.cc.o  -o hello -rdynamic 
