@@ -1,1 +1,0 @@
-/opt/rh/devtoolset-3/root/usr/bin/c++      CMakeFiles/client.dir/client.cc.o  -o ../../client  -L/root/CLionProjects/libevent_learning/3rd/libevent-2.0.23/lib -rdynamic -ldl -lrt -lpthread -levent -levent_pthreads -Wl,-rpath,/root/CLionProjects/libevent_learning/3rd/libevent-2.0.23/lib 
