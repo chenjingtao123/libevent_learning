@@ -14,9 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2534ac2-ccdb-4917-9a60-9cd2fc0a6b8b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/server.cc" afterPath="$PROJECT_DIR$/src/server/server.cc" />
-    </list>
+    <list default="true" id="a2534ac2-ccdb-4917-9a60-9cd2fc0a6b8b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/src/server/server.cc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+              <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -422,12 +420,12 @@
       <workItem from="1544554452809" duration="3809000" />
       <workItem from="1544754126666" duration="2377000" />
       <workItem from="1544916853351" duration="1432000" />
-      <workItem from="1545176314733" duration="2816000" />
+      <workItem from="1545176314733" duration="2842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9857000" />
+    <option name="totallyTimeSpent" value="9883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1898" height="860" extended-state="0" />
@@ -892,7 +890,7 @@
     <entry file="file://$PROJECT_DIR$/src/server/server.cc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
